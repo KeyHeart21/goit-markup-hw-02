@@ -46,6 +46,9 @@ ul {
     color: #404bbf;
 }
 
+.header-adr {
+    font-style: normal
+}
 
 .header-adr-list-link {
     font-weight: 400;
@@ -152,7 +155,7 @@ button {
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
